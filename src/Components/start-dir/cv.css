@@ -1,0 +1,8 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+.f-5 div{
+    flex: 1;
+    min-height: 10px;
+}
